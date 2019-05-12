@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<db name="CSALES" login="evad" password="8b04f9J3ei484YR111mndw==" />		
+	<operation>download</operation>	
+	<gateway url="bsr000.net/shipper_requests" token="wlIM2P/4S05/fkRsdG0QNg1Gmk7I7L//GCpbGc2F1rCXYwUMN45HdXafVce2GE5p"/>	
+	<logmail auth="true" ssl="true" user="contact84@yandex.ru" pass="8b04f9J3ei484YR111mndw==" host="smtp.yandex.ru" port="465" from="contact84@yandex.ru" subject="Hills Download">
+		<recipient>contact84@yandex.ru</recipient>
+	</logmail>	
+</settings>
